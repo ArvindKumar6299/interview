@@ -14,11 +14,11 @@ function Footer() {
                     <div className="contact-details">
                         <h1>Contact Us</h1>
                         <p>Librarian</p>
-                        <p>Government School</p>
-                        <p>Visakhapatnam-530041</p>
-                        <p>Andhra Pradesh</p>
+                        <p>Mangalmay Instite of Engineering and Technology</p>
+                        <p> 201310</p>
+                        <p>Greater Noida</p>
                         <p>India</p>
-                        <p><b>Email:</b>example@gmail.com</p>
+                        <p><b>Email:</b>arvindkumar735240@gmail.com</p>
                     </div>
                     <div className='usefull-links'>
                         <h1>Usefull Links</h1>
@@ -29,9 +29,9 @@ function Footer() {
                     </div>
                     <div className='librarian-details'>
                         <h1>Librarian</h1>
-                        <p>Name</p>
+                        <p>Name - Arvind</p>
                         <p>Education</p>
-                        <p>Contact: +91 9123456787</p>
+                        <p>Contact: +91 6299697165</p>
                     </div>
                 </div>
                 <div className="contact-social" >
